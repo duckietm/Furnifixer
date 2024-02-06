@@ -1,0 +1,20 @@
+<furnitype id="%baseid%" classname="%swfname%">
+<revision>45508</revision>
+<defaultdir>0</defaultdir>
+<xdim>1</xdim>
+<ydim>1</ydim>
+<partcolors>...</partcolors>
+<name>%pubname%</name>
+<description>%desc%</description>
+<adurl/>
+<offerid>10987</offerid>
+<buyout>1</buyout>
+<rentofferid>-1</rentofferid>
+<rentbuyout>0</rentbuyout>
+<bc>0</bc>
+<customparams/>
+<specialtype>1</specialtype>
+<canstandon>0</canstandon>
+<cansiton>0</cansiton>
+<canlayon>0</canlayon>
+</furnitype>
